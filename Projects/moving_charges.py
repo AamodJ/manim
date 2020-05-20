@@ -1,5 +1,8 @@
-from big_ol_pile_of_manim_imports import *
-
+# from big_ol_pile_of_manim_imports import *
+from manimlib.imports import *
+"""
+Update it for newer version of manim
+"""
 class MovingCharge(Scene):
     CONFIG = {
         'plane_kwargs': {

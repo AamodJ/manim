@@ -1,5 +1,8 @@
 #from big_ol_pile_of_manim_imports import *
 from manimlib.imports import *
+
+"""This is grant's code. Understand it, and recode as your own"""
+
 line_1_rate_prev=0
 line_1_rate_pres=2
 line_2_rate_prev=0

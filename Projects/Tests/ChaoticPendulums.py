@@ -1,5 +1,7 @@
 from manimlib.imports import *
 
+"""Recode the entire thing. It doesn't work at all"""
+
 class DoublePendulum(Scene):
     CONFIG = {
         'm1': 1,

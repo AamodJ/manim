@@ -1,5 +1,5 @@
 from big_ol_pile_of_manim_imports import *
-
+"""Update for newer version of manim"""
 class TestScene(Scene): 
     def construct(self): 
         func = lambda x: x

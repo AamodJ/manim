@@ -1,6 +1,12 @@
 # from big_ol_pile_of_manim_imports import *
 from manimlib.imports import *
 
+"""
+Make a separate 3D animation 
+This just looks ugly lol
+"""
+
+
 class s(ThreeDScene):
     CONFIG = {
         "plane_kwargs": {

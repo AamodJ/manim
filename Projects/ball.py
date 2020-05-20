@@ -1,5 +1,9 @@
-from big_ol_pile_of_manim_imports import *
+# from big_ol_pile_of_manim_imports import *
 
+"""
+Update the code for newer version of manim
+"""
+from manimlib.imports import *
 
 class Ball(Circle):
     CONFIG = {

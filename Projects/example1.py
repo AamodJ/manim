@@ -1,6 +1,11 @@
 import math
 from manimlib.imports import *
 
+"""
+Fix the code. It doesn't give a correct graph 
+"""
+
+
 class ExampleApproximation(GraphScene):
     CONFIG = {
         "function": lambda x: 1 / (1 - x),

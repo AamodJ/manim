@@ -1,5 +1,6 @@
-from big_ol_pile_of_manim_imports import *
-
+# from big_ol_pile_of_manim_imports import *
+from manimlib.imports import *
+"""Update for newer version of manim"""
 class MovingPoint(GraphScene):
     CONFIG = { 
         'graph_origin': ORIGIN
